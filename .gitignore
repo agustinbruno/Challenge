@@ -1,0 +1,9 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+.vscode/
+
+# Resultados de pruebas
+TestResults/
+
+# Archivos de configuración de Git
+.git/
